@@ -5,7 +5,6 @@ function display(num)
 }
 function percentage(num, per)
 {
-    display
     return (num/100)*per;
 }
 function calculate() 
